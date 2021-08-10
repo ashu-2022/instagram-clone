@@ -10,3 +10,11 @@ Build an Instagram Clone using :
 
 ## preview Video :
 ### https://youtu.be/rBZ0YvCxZU4
+
+## Features :
+- Secure Login/Logout
+- Update Profile Picture
+- Create, Delete Post
+- Like, comment, save Post
+- Follow/UnFollow User
+- Search User
