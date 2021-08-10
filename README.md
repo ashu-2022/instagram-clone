@@ -13,7 +13,7 @@ Build an Instagram Clone using :
 
 ## Features :
 - Secure Login/Logout
-- Update Profile Picture
+- Update Profile 
 - Create, Delete Post
 - Like, comment, save Post
 - Follow/UnFollow User
