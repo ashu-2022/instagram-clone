@@ -1,0 +1,22 @@
+django naming convention for model table is :-
+AppName_ModelName
+
+video 26
+
+
+user1 details /----
+fake@gmail.com
+fake
+Jss@2022
+
+superuser1 /---
+Ashutosh 
+Ashutosh Pandit
+ashutoshpandit308@gmail.com
+Jss@2022
+
+django-jazzmin is used to style django-admin section
+
+gunicorn -> for heroku
+whitenoise -> for server static files 
+psycopg2 -> for connecting postsql

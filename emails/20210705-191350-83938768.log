@@ -1,0 +1,12 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on localhost:8000
+From: webmaster@localhost
+To: fake@gmail.com
+Date: Mon, 05 Jul 2021 13:43:50 -0000
+Message-ID: <162549263059.26088.7295632326091169119@LAPTOP-NNM043NG>
+
+Our Team trying to steal your pasword- fake@gmail.com. Follow the link below:
+http://localhost:8000/password/reset/confirm/Mg/5s2-08ab7ef9db5a76d0c1ee
+-------------------------------------------------------------------------------
